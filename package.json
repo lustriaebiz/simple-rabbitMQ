@@ -1,0 +1,19 @@
+{
+  "name": "simple-rabbit-mq",
+  "version": "1.0.0",
+  "description": "simple rabbitMQ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ebiz",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/amqplib": "^0.5.13",
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "amqplib": "^0.5.5",
+    "nodemon": "^2.0.2"
+  }
+}
